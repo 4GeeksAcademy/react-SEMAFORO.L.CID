@@ -1,0 +1,16 @@
+.light {
+    width: 60px;
+    height: 60px;
+    margin: 8px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.red { background: red; }
+.yellow { background: yellow; }
+.green { background: green; }
+
+.glow {
+    box-shadow: 0px 0px 20px 5px white;
+}
